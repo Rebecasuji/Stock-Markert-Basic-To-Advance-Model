@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib scikit-learn tensorflow yfinance
 Clone the repository
 bash
 Copy code
-git clone https://github.com/yourusername/Stock-Prediction-LSTM.git
+git clone https://github.com/Rebecasuji/Stock-Prediction-LSTM.git
 cd Stock-Prediction-LSTM
 Run the Jupyter Notebook
 Launch Jupyter Notebook and open the Stock prediction basic to advance Model.ipynb file.
